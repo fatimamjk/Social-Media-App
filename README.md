@@ -1,6 +1,6 @@
 # Social Media App
 
-A simple spcial media app with React.
+A simple social media app with React.
 
 ## Installation Guide
 
